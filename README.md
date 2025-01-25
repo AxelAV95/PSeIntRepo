@@ -1,5 +1,7 @@
 # Atajos para PSeInt
 
+<img src="https://i.pinimg.com/736x/bf/56/f6/bf56f614cd3f46e12204aba21ce54abe.jpg" alt="Texto alternativo" width="300" height="200">
+
 **Cheatsheet** con **ejemplos** para cada sección, para que puedas entender mejor cómo aplicar cada concepto en PSeInt.
 
 ---
