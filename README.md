@@ -4,7 +4,7 @@
 
 ---
 
-## **1. Estructura Básica de un Programa en PSeInt**
+## **1. Estructura básica de un programa en PSeInt**
 ```pseudocode
 Proceso SaludoPersonalizado
     // Declaración de variables
@@ -19,7 +19,7 @@ FinProceso
 
 ---
 
-## **2. Tipos de Datos**
+## **2. Tipos de datos**
 ### **Entero**
 ```pseudocode
 Definir edad Como Entero
@@ -89,7 +89,7 @@ FinSi
 
 ---
 
-## **4. Entrada y Salida de Datos**
+## **4. Entrada y salida de datos**
 ### **Entrada**
 ```pseudocode
 Definir nombre Como Cadena
@@ -107,7 +107,7 @@ Escribir "Tienes ", edad, " años."
 
 ---
 
-## **5. Estructuras de Control**
+## **5. Estructuras de control**
 ### **Condicionales**
 #### **Si (If)**
 ```pseudocode
@@ -192,7 +192,7 @@ Escribir "El valor en [2, 3] es: ", matriz[2, 3]
 
 ---
 
-## **7. Funciones y Procedimientos**
+## **7. Funciones y procedimientos**
 ### **Funciones**
 ```pseudocode
 Funcion resultado <- Sumar(a, b)
@@ -256,7 +256,7 @@ Escribir "Minúsculas: ", Minusculas(texto)
 
 ---
 
-## **9. Ejemplo Completo**
+## **9. Ejemplo completo**
 ```pseudocode
 Proceso CalculadoraAvanzada
     Definir num1, num2, resultado Como Real
