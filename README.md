@@ -221,7 +221,7 @@ FinProceso
 
 ---
 
-## **8. Manejo de Cadenas**
+## **8. Manejo de cadenas**
 ### **Longitud de una cadena**
 ```pseudocode
 Definir texto Como Cadena
