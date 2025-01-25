@@ -1,6 +1,6 @@
 # Atajos para PSeInt
 
-¡Claro! A continuación, te amplío la **cheatsheet** con **más ejemplos** para cada sección, para que puedas entender mejor cómo aplicar cada concepto en PSeInt.
+**Cheatsheet** con **ejemplos** para cada sección, para que puedas entender mejor cómo aplicar cada concepto en PSeInt.
 
 ---
 
